@@ -1,5 +1,5 @@
 function palindrome(){
-let word = prompt('Enter any word:');
+let word = prompt('Enter any word of your choice...:');
 let letters = [];
 let rev_word = '';
 
