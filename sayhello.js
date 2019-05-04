@@ -1,5 +1,7 @@
-function sayHello(){
-let name = prompt('Enter your name ?');
-alert("Hello " + name);
-console.log("Hello " + name);
+function hello(name){
+  console.log( 'Hello ' + name);
 }
+
+hello('Henok');
+hello('Abnet');
+hello('Kalkidan');
